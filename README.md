@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek-Verma5799
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning java,c++,c#,mysql,linux,html,css
-- 📫 How to reach me abhiv193@gmail.com, +91 7018162685
+- 📫 How to reach me abhiv193@gmail.com
 
 
 <!---
